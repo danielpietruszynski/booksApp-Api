@@ -10,8 +10,8 @@ Program został napisany korzystając z javaScript, EJS oraz CSS przy użyciu Vi
 
 ## Opis działania
 Repozytorium zawiera kod do programu, któru pozwala utworzyć użytkownikowi własną bazę danych posiadanych przez niego książek.
-Korzystając z aplikacji użytkownik jest w stanie dodawać nowe książki, edytować potencjalne literówki w dodanymch już tytułach lub autorach,
-zmieniać status posiadanej książki (przeczytana/nieprzeczytana) oraz usuwać je z listy.
+Korzystając z aplikacji użytkownik jest w stanie dodawać nowe książki, edytować potencjalne literówki w dodanych już tytułach 
+lub autorach, zmieniać status posiadanej książki (przeczytana/nieprzeczytana) oraz usuwać je z listy.
 
 
 ## Status projektu
